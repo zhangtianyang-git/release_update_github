@@ -1,6 +1,6 @@
 {
   "version": "v1.1.9_20260930_171805",
-  "notes": "1. 一些新闻及研报字体改成链接\n2. 优化筹码分布直方图",
+  "notes": "1. 优化筹码分布直方图",
   "exeUrl": "https://github.com/zhangtianyang-git/release_update_github/releases/download/v1.1.9/StockCalculator_v1.1.9_20260930_171805.000825Z.exe",
   "apkUrl": "https://github.com/zhangtianyang-git/release_update_github/releases/download/v1.1.9/-v1.1.9_20260930_171805.000825Z.apk",
   "test": true
