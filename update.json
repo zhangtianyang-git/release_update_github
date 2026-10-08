@@ -1,7 +1,7 @@
 {
-  "version": "v1.1.9_20260930_171805",
-  "notes": "1. 优化筹码分布直方图",
-  "exeUrl": "https://github.com/zhangtianyang-git/release_update_github/releases/download/v1.1.9/StockCalculator_v1.1.9_20260930_171805.000825Z.exe",
-  "apkUrl": "https://github.com/zhangtianyang-git/release_update_github/releases/download/v1.1.9/-v1.1.9_20260930_171805.000825Z.apk",
+  "version": "v1.1.9_20261008_163306",
+  "notes": "1. 改实时动态获取当日价格",
+  "exeUrl": "https://github.com/zhangtianyang-git/release_update_github/releases/download/v1.1.9/StockCalculator_v1.1.9_20261008_163306.000338Z.exe",
+  "apkUrl": "https://github.com/zhangtianyang-git/release_update_github/releases/download/v1.1.9/-v1.1.9_20261008_163306.000338Z.apk",
   "test": true
 }
